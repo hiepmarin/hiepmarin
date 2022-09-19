@@ -10,7 +10,7 @@
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepmarin&layout=compact&theme=monokai" align="center"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepmarin&layout=compact&theme=monokai&hide_border=true" align="center"/></div>
 
 <br/>
 
